@@ -12,9 +12,9 @@ Instructions on how to commit to Git from Pycharm and Jupyter
     h) Finally, push your changes to the remote repository by clicking the "Push" button in the "Version Control" toolbar.
 
 2. CLONING from Git into Pycharm 
-a) Open PyCharm and click on "Get from Version Control" on the Welcome screen, or go to "File" -> "New Project" -> "Get from Version Control" in an existing project.
-b) In the "Get from Version Control" dialog box, select "Git" as the version control system.
-c) Enter the URL of the repository you want to clone in the "URL" field. You can find this URL on the repository's homepage on GitHub or another Git hosting service.
-d) Choose the directory where you want to store the repository on your local machine by clicking the "Directory" field.
-e) Click "Clone" to start the cloning process. PyCharm will download the repository and create a new project with the repository as the root directory.
-f) Once the cloning is complete, you can start working with the project in PyCharm.
+    a) Open PyCharm and click on "Get from Version Control" on the Welcome screen, or go to "File" -> "New Project" -> "Get from Version Control" in an existing project.
+    b) In the "Get from Version Control" dialog box, select "Git" as the version control system.
+    c) Enter the URL of the repository you want to clone in the "URL" field. You can find this URL on the repository's homepage on GitHub or another Git hosting service.
+    d) Choose the directory where you want to store the repository on your local machine by clicking the "Directory" field.
+    e) Click "Clone" to start the cloning process. PyCharm will download the repository and create a new project with the repository as the root directory.
+    f) Once the cloning is complete, you can start working with the project in PyCharm.
